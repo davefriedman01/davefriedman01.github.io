@@ -1,1 +1,1 @@
-This repository houses the source code for the GitHub Pages landing page for this GitHub account.
+This repository houses the source code for this account's GitHub Pages landing page.
